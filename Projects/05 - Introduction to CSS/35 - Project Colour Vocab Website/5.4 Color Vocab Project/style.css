@@ -15,9 +15,11 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/width
 
 */
 
-/*  01. */
+/*  01. Done!*/
 
-/*  02. */
+
+
+/*  02. Done!*/
 #red{
     color: red;
 }
@@ -39,4 +41,16 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/width
 }
 
 
-/*  02. */
+
+/*  03. */
+h2{
+    font-weight: normal;
+}
+
+
+
+/*  04. */
+img{
+    height: 200px;
+    width: 200px;
+}
